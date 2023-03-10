@@ -12,7 +12,7 @@ tags:
 ---
 # This is a Heading h1
 
-## This is a Heading h2 test by Scott Talbert
+## This is a Heading h2 test by Scott Talbert & Andrew
 
 ###### This is a Heading h6
 
